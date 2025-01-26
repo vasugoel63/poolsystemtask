@@ -1,7 +1,9 @@
 For Backend - 
 
 Step1-  I used npm init command . Then I installed dependencies such as express,pg I have created app and made it run on PORT 5000. 
+
 Step2- Then I created a database using pgAdmin and connected to it using pg
+
 Step3- Then I created tables for pools, pools_options, votes, and users
 Step4- Then I created Api for creating users , made a signup api, created pool by user, getting single pool data. Also Used Postman for testing it.
 Step5- My Next Step was first setting up Kafka and zookeeper. For that first I installed kafka on my device. Then using cmd ran kafka on server 9192 and zookeeper on server 2181
